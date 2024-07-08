@@ -8,8 +8,8 @@ I've been coding for 7+ years with my experience spanning through my undergrad a
 
 * 🌍  I'm based in Portland, Oregon
 * ✉️  You can contact me at [ackrohan@gmail.com](mailto:ackrohan@gmail.com)
-* 🧠  I'm learning Pytorch and Tensorflow
-* 🤝  I'm open to collaborating on NLP projects, Tensorflow projects
+* 🧠  I'm currently working on and learning -> streamlit, langchain, Google Gemini, Vertex AI modules
+* 🤝  Interning as an AI Engineer. Implementing AI integrated applications using Google Gemini with Vertex AI. 
 * ⚡  I love gaming, soccer and travelling the world 🌎
 
 ### Skills
