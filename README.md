@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Reddy
+![image](https://github.com/user-attachments/assets/b9d5739f-ce48-4e8f-b260-0ff8b0512965)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Reddy
 ===================================================================================================================================
 
 Machine Learning and Artificial Intelligence enthusiast
@@ -7,6 +7,7 @@ Machine Learning and Artificial Intelligence enthusiast
 I've been coding for 7+ years with my experience spanning through my undergrad and my work experience. I have recently started working on Machine Learning projects and also dabbling a bit in Artificial Intelligence.
 
 * 🌍  I'm based in Portland, Oregon
+* ✉️  Portfolio Website - https://rohanreddy1201.github.io/portfolio-website/
 * ✉️  You can contact me at [ackrohan@gmail.com](mailto:ackrohan@gmail.com)
 * 🧠  I'm currently working on and learning -> streamlit, langchain, Google Gemini, Vertex AI modules
 * 🤝  Interning as an AI Engineer. Implementing AI integrated applications using Google Gemini with Vertex AI. 
