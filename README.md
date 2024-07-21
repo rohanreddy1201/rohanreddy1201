@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b9d5739f-ce48-4e8f-b260-0ff8b0512965)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Reddy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohan Reddy
 ===================================================================================================================================
 
 Machine Learning and Artificial Intelligence enthusiast
