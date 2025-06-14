@@ -76,10 +76,8 @@ If you’re building in the AI/infra/LLM space — I’m always up for collabora
 
 ## 🧩 Projects
 
-🚧 **Coming Soon — LLM Build Weekend (OpenAI Stack)**  
-Stay tuned for 5–6 full-stack AI/ML projects including:
-
-- GCP-Powered PDF Quiz App  
+-  
+- GCP-Powered PDF Quiz App
 - RAG-based Retrieval Chatbots  
 
 I’ll update the links as projects go live right here!
@@ -88,7 +86,7 @@ I’ll update the links as projects go live right here!
 
 ## 🚀 What I'm Building Next
 
-🔧 I'm deep in a solo build sprint, working on several **OpenAI-powered microprojects** including:
+🔧 I'm deep in a solo build sprint, working on several **OpenAI/Ollama-powered microprojects** including:
 
 - 🧠 LangChain Chatbots – Lightweight, context-aware agents  
 
